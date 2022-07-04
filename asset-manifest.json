@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weathercheck/static/css/main.67c35d8e.css",
+    "main.js": "/weathercheck/static/js/main.8a87d60d.js",
+    "index.html": "/weathercheck/index.html",
+    "main.67c35d8e.css.map": "/weathercheck/static/css/main.67c35d8e.css.map",
+    "main.8a87d60d.js.map": "/weathercheck/static/js/main.8a87d60d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c35d8e.css",
+    "static/js/main.8a87d60d.js"
+  ]
+}
